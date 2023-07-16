@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/MODERN14/Downloads/alpro-main/alpro-main/rumahsakit/media/videos/linux/480p15/partial_movie_files/OverrideAnimationExample/4266129954_4005236706_223132457.mp4'

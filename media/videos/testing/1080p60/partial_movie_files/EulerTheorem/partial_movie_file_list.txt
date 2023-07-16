@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/MODERN14/Downloads/alpro-main/alpro-main/rumahsakit/media/videos/testing/1080p60/partial_movie_files/EulerTheorem/1413466013_3316318648_223132457.mp4'
+file 'file:C:/Users/MODERN14/Downloads/alpro-main/alpro-main/rumahsakit/media/videos/testing/1080p60/partial_movie_files/EulerTheorem/1672018281_2447139464_2674144776.mp4'
+file 'file:C:/Users/MODERN14/Downloads/alpro-main/alpro-main/rumahsakit/media/videos/testing/1080p60/partial_movie_files/EulerTheorem/1672018281_190800790_1972726927.mp4'
+file 'file:C:/Users/MODERN14/Downloads/alpro-main/alpro-main/rumahsakit/media/videos/testing/1080p60/partial_movie_files/EulerTheorem/1672018281_445626269_764342036.mp4'
+file 'file:C:/Users/MODERN14/Downloads/alpro-main/alpro-main/rumahsakit/media/videos/testing/1080p60/partial_movie_files/EulerTheorem/1672018281_901916859_1051911142.mp4'
+file 'file:C:/Users/MODERN14/Downloads/alpro-main/alpro-main/rumahsakit/media/videos/testing/1080p60/partial_movie_files/EulerTheorem/1672018281_3073779459_2773062014.mp4'
+file 'file:C:/Users/MODERN14/Downloads/alpro-main/alpro-main/rumahsakit/media/videos/testing/1080p60/partial_movie_files/EulerTheorem/1672018281_620889706_3933383759.mp4'
+file 'file:C:/Users/MODERN14/Downloads/alpro-main/alpro-main/rumahsakit/media/videos/testing/1080p60/partial_movie_files/EulerTheorem/1672018281_2292429055_3746163273.mp4'
+file 'file:C:/Users/MODERN14/Downloads/alpro-main/alpro-main/rumahsakit/media/videos/testing/1080p60/partial_movie_files/EulerTheorem/1672018281_415298831_3178964279.mp4'
+file 'file:C:/Users/MODERN14/Downloads/alpro-main/alpro-main/rumahsakit/media/videos/testing/1080p60/partial_movie_files/EulerTheorem/1672018281_2312807444_3781435184.mp4'
+file 'file:C:/Users/MODERN14/Downloads/alpro-main/alpro-main/rumahsakit/media/videos/testing/1080p60/partial_movie_files/EulerTheorem/1672018281_2589455853_3711870693.mp4'
+file 'file:C:/Users/MODERN14/Downloads/alpro-main/alpro-main/rumahsakit/media/videos/testing/1080p60/partial_movie_files/EulerTheorem/1672018281_190800790_1000169522.mp4'
